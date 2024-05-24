@@ -1,0 +1,22 @@
+
+.navbarShow .container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.user-info {
+display: flex;
+align-items: center;
+margin-left: auto;
+color: white; /* Adjust this based on your navbar's background color */
+font-size: 14px;
+}
+
+.user-info span {
+margin: 0 5px;
+}
+.logo-img {
+    width: 100px;
+    height: 100px;
+  }
